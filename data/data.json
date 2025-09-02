@@ -1,0 +1,67 @@
+[
+	{
+	"keyid": 1,
+	"classid": 0,
+	"appname": "WhatsApp Messenger",
+	"description": "WhatsApp adalah aplikasi pesan instan lintas platform yang memungkinkan pengguna untuk berkomunikasi melalui teks, suara, dan video. Aplikasi ini memungkinkan pengguna untuk mengirim pesan, melakukan panggilan suara dan video, serta berbagi media seperti foto dan dokumen.",
+	"appicon": "psicon.jpg",
+	"downinfo": "<p style='color: #52C21B;'>Support OS 7.0 dan Android 10</p><p>ddddd</p>",
+	"datatime": "2 Sept 2025",
+	"company": "Whatsapp Inc.",
+	"size": "79 MB",
+	"version": "25.23.83",
+	"rating": 4.9,
+	"downloadLinks": {
+    	"playstore": "https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share",
+    	"appstore":  "https://apps.apple.com/id/app/whatsapp-messenger/id310633997"
+    }
+	},
+
+
+
+
+
+
+
+	{
+	"keyid": 31,
+	"classid": 1,
+	"appname": "WhatsApp Messenger",
+	"description": "WhatsApp adalah aplikasi pesan instan lintas platform yang memungkinkan pengguna untuk berkomunikasi melalui teks, suara, dan video. Aplikasi ini memungkinkan pengguna untuk mengirim pesan, melakukan panggilan suara dan video, serta berbagi media seperti foto dan dokumen.",
+	"appicon": "psicon.jpg",
+	"downinfo": "<p style='color: #52C21B;'>Support OS 7.0 dan Android 10</p><p>ddddd</p>",
+	"datatime": "2 Sept 2025",
+	"company": "Whatsapp Inc.",
+	"size": "79 MB",
+	"version": "25.23.83",
+	"rating": 4.9,
+	"downloadLinks": {
+		"unduh": "https://example.com/download/coolmod.apk"
+    }
+	},
+
+
+
+
+
+
+
+
+	{
+	"keyid": 51,
+	"classid": 2,
+	"appname": "Baterry Stats",
+	"description": "WhatsApp adalah aplikasi pesan instan lintas platform yang memungkinkan pengguna untuk berkomunikasi melalui teks, suara, dan video. Aplikasi ini memungkinkan pengguna untuk mengirim pesan, melakukan panggilan suara dan video, serta berbagi media seperti foto dan dokumen.",
+	"appicon": "Shortcuts/battery-stats.PNG",
+	"downinfo": "<p style='color: #52C21B;'>Support OS 7.0 dan Android 10</p><p>ddddd</p>",
+	"datatime": "2 Sept 2025",
+	"size": "79 MB",
+	"rating": 4.9,
+	"downloadLinks": {
+		"shortcut": "https://www.icloud.com/shortcuts/8ee71c2b19784a6c9f84b36375bbcb08"
+    }
+	}
+	
+
+]
+
